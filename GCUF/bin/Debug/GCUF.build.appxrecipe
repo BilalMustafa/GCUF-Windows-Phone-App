@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BILAL-PC</Machine>
+    <WindowsUser>MuhammadBilal</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>04223ea4-9336-4fd2-b39c-4fe897c13e35</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\bin\Debug\GCUF.exe">
+      <PackagePath>GCUF.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\packages\Newtonsoft.Json.6.0.5\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Assets\capture.png">
+      <PackagePath>Assets\capture.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Assets\RTGnBLbTL.png">
+      <PackagePath>Assets\RTGnBLbTL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Resources\Contact.png">
+      <PackagePath>Resources\Contact.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Resources\Flickr.png">
+      <PackagePath>Resources\Flickr.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Assets\gcufbackground.png">
+      <PackagePath>Assets\gcufbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Assets\newgcufbackground.png">
+      <PackagePath>Assets\newgcufbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Resources\Boss.png">
+      <PackagePath>Resources\Boss.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Resources\newsfeed.png">
+      <PackagePath>Resources\newsfeed.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Resources\Other.png">
+      <PackagePath>Resources\Other.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Resources\portal.png">
+      <PackagePath>Resources\portal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\ReadMe.Coding4Fun.Toolkit.txt">
+      <PackagePath>ReadMe.Coding4Fun.Toolkit.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\Resources\thumb.jpg">
+      <PackagePath>Resources\thumb.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\bin\Debug\ContactsPage.xbf">
+      <PackagePath>ContactsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\bin\Debug\NewsFeedPage.xbf">
+      <PackagePath>NewsFeedPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\bin\Debug\onlinephotos.xbf">
+      <PackagePath>onlinephotos.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\bin\Debug\StudentPortalPage.xbf">
+      <PackagePath>StudentPortalPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\bin\Debug\GCUF.xr.xml">
+      <PackagePath>GCUF.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuhammadBilal\Dropbox\AppProject\Final Version Fully working\GCUF\GCUF\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

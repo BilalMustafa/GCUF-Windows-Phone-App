@@ -1,0 +1,52 @@
+{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Title": "Group Title: 1",
+    "Subtitle": "Group subtitle: 1",
+    "ImagePath": "Assets/DarkGray.png",
+    "Description" : "",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-1-Item-1",
+        "Title": "NewsFeed",
+        "Type" :  "newsfeed",
+        "Subtitle": "Gets the latest News",
+        "ImagePath": "Resources/newsfeed.png",
+        "Description" : "About GCUF",
+        "Content" : "GC University, Faisalabad has emerged as a leading center of learning and research in a short span of time. The University with its dynamic faculty and innovative syllabi has become a catalyst of intellectual, social and industrial change. It caters to the diverse needs of society by imparting education in almost all the major fields of learning.The GC University journey started as a primary school in 1897 in the present building of Govt. College for Women, Karkhana Bazar, Faisalabad. It was promoted to High School and Intermediate College in 1905 and 1924 respectively. It was elevated to the degree level in 1933 and postgraduate disciplines were introduced in 1963. The long journey that started with the humble beginning reached its climax when it was granted the status of University in October 2002.The GC University, Faisalabad has a long history of excellence and distinction as an institution. Renowned scholars and eminent personalities have served this institution in various capacities at various stages of its history. It has produced outstanding personnel who have earned great fame not only for themselves but also for the nation.The luminaries like Mr. Abdul Hameed, Mr. W.H.F. Armstrong, Mr. Lala Chattan Annand, Mr. Hashmat Khan, Mr. Taj Khyal, Mr. Namdar Khan, Mr. Karamat Hussain Jafari, Mr. Mukhtar Mahmood Qureshi, Dr. Asif Iqbal Khan and Dr. Arif Zaidi have served this institution.The university is situated at the Jhang Road not far from the historical Clock Tower. The main campus is spread on 37 acres and the construction of new campus has been started on an area of 200 acres some 3-4 kilometers away from the main campus at Jhang Road.The University is offering educational degrees in different disciplines. The University is a hub of educational, social and cultural activities with a close liaison with industry."
+      },
+      {
+        "UniqueId": "Group-1-Item-2",
+        "Title": "Contacts",
+        "Type":  "contacts",
+        "Subtitle": "Item Subtitle: 2",
+        "ImagePath": "Resources/Contact.png",
+        "Description" : "About This Application",
+        "Content" : "This App is Designed and Developed by Muhammad Bilal Mustafa    www.facebook.com/thest211"
+      },
+      {
+        "UniqueId": "Group-1-Item-3",
+        "Title": "Student Portal",
+        "Type" : "studentportal",
+        "Subtitle": "Item Subtitle: 3",
+        "ImagePath": "Resources/portal.png",
+        "Description" : "",
+        "Content" : ""
+      },
+     
+      {
+          "UniqueId": "Group-1-Item-5",
+        "Title": "FlickrImages",
+        "Type" : "about",
+        "Subtitle": "Gets the latest News",
+        "ImagePath": "Resources/Flickr.png",
+        "Description" : "",
+        "Content" : ""
+      }
+     
+    ]
+  }
+ 
+    ]
+  }
